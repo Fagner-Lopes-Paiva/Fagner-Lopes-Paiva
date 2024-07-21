@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou @Fagner-Lopes-Paiva
+- 👀  Estou enteresado em aprender HTML | CSS | javascript, você vai encontra aqui tudo sobre front-end.
+- 🌱 Tenho aprendido mais sobre o mesmo para ensinar a outros.
+- 📫 Como chegar até a mim: email: fagnerlopespaiva@gmail.com

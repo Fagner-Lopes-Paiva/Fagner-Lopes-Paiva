@@ -11,4 +11,8 @@
 
 ___________________
 
+![Status de Fagner Lopes Paiva](https://github-readme-stats.vercel.app/api/top-langs/?username=Fagner-Lopes-Paiva&layout=compact&langs_count=7&theme=dracula)
+
+[![Fagner Lopes Paiva GitHub stats](https://github-readme-stats.vercel.app/api?username=Fagner-Lopes-Paiva)](https://github.com/Fagner-Lopes-Paiva/github-readme-stats)
+
 ![Feliz Natal](https://cdn.pixabay.com/animation/2022/12/02/14/18/14-18-27-651_512.gif)

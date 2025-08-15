@@ -1,7 +1,7 @@
 ## 🌍Seja bem vindos ao mundo de Fagner!
 ![Gato](https://cdn.pixabay.com/animation/2023/01/31/11/00/11-00-41-940_512.gif)
 - 💻 Olá, eu sou @Fagner-Lopes-Paiva
-- 💬  Estou enteresado em aprender Git | Github | HTML | CSS | JavaScript | React é Angular, você vai encontra aqui tudo sobre front-end.
+- 💬  Estou enteresado em aprender Git | Github | HTML | CSS | JavaScript | React, você vai encontra aqui tudo sobre meu desemvolvimento front-end.
 - ✏️ Tenho aprendido mais sobre o mesmo para ensinar a outros.
 - ✉️ Como chegar até a mim! email: fagnerlopespaiva@gmail.com
 - ➡️ [Acessar meu Linkedin](https://www.linkedin.com/in/fagner-lopes-08aa4b131?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7vxUQFEVSJWU7RrA%2F0FoqQ%3D%3D)
